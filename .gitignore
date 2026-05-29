@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.claude/
+
+# Office/editor temporary files
+~$*
+tmp*.docx
+
+# Generated manuscript backups and bulky reference PDFs
+manuscript/
+manuscript/archive/
+output/doc/*.docx
+output/eds_recent_papers/*.pdf
+
+# Local scratch exports
+output/playwright/

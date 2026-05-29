@@ -1,0 +1,10 @@
+﻿Robustness item,Two-stage CRITIC (main),Equal-weight specification,Single-stage CRITIC,Interpretation
+Mean score in 2001,40.216,41.412,40.643,Same upward trajectory
+Mean score in 2021,46.777,47.033,48.742,Same upward trajectory
+"Growth rate, 2001-2021 (%)",16.314,13.573,19.926,Both indicate clear improvement
+"Spearman correlation, all country-years",1.0,0.992,0.955,Very high rank consistency
+"Spearman correlation, 2021",1.0,0.989,0.94,Very high rank consistency
+Top-10 overlap in 2021,10/10,9/10,9/10,High-performing group is stable
+Bottom-10 overlap in 2021,10/10,9/10,9/10,Low-performing group is stable
+Mean absolute rank difference,0.0,1.462,3.232,Small average rank shift
+Median absolute rank difference,0.0,1.0,2.0,Typical rank shift is minimal

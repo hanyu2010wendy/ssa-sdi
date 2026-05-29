@@ -1,0 +1,100 @@
+{
+  "indicator_count": 34,
+  "country_count": 45,
+  "dimension_decomposition": [
+    {
+      "dimension_cn": "经济",
+      "dimension_en": "Economic",
+      "score_mean_change_for_index": 0.011299500964676523,
+      "contribution_to_sdi": 0.002824875241169131,
+      "indicators": 7,
+      "avg_pct_observed_improved": 0.580952380952381,
+      "endpoint_missing_cells": 15,
+      "share_of_mean_sdi_change": 0.04305516653562844,
+      "actual_subsystem_change": 0.011299500964676523
+    },
+    {
+      "dimension_cn": "社会",
+      "dimension_en": "Social",
+      "score_mean_change_for_index": 0.19388534569755334,
+      "contribution_to_sdi": 0.048471336424388334,
+      "indicators": 10,
+      "avg_pct_observed_improved": 0.7533333333333333,
+      "endpoint_missing_cells": 8,
+      "share_of_mean_sdi_change": 0.7387729665161391,
+      "actual_subsystem_change": 0.19388534569755334
+    },
+    {
+      "dimension_cn": "资源",
+      "dimension_en": "Resource",
+      "score_mean_change_for_index": 0.006468539229053105,
+      "contribution_to_sdi": 0.0016171348072632763,
+      "indicators": 9,
+      "avg_pct_observed_improved": 0.48888888888888893,
+      "endpoint_missing_cells": 2,
+      "share_of_mean_sdi_change": 0.024647463159635206,
+      "actual_subsystem_change": 0.006468539229053105
+    },
+    {
+      "dimension_cn": "生态",
+      "dimension_en": "Ecological",
+      "score_mean_change_for_index": 0.05078900776026957,
+      "contribution_to_sdi": 0.012697251940067392,
+      "indicators": 8,
+      "avg_pct_observed_improved": 0.5277777777777778,
+      "endpoint_missing_cells": 0,
+      "share_of_mean_sdi_change": 0.19352440378859972,
+      "actual_subsystem_change": 0.05078900776026957
+    }
+  ],
+  "region_summary": [
+    {
+      "Region": "C",
+      "countries": 8,
+      "mean_sdi_change": 0.04686929320635064,
+      "mean_economic_change": -0.04810735600887531,
+      "mean_social_change": 0.16465946845831947,
+      "mean_resource_change": -0.012266726149029648,
+      "mean_ecological_change": 0.08319178652498808,
+      "mean_indicators_improved_observed": 18.25,
+      "mean_indicators_deteriorated_observed": 13.375,
+      "mean_endpoint_missing_cells": 0.75
+    },
+    {
+      "Region": "E",
+      "countries": 11,
+      "mean_sdi_change": 0.0706837739184447,
+      "mean_economic_change": 0.022943199593513486,
+      "mean_social_change": 0.18680384523030372,
+      "mean_resource_change": 0.026198838614386447,
+      "mean_ecological_change": 0.046789212235575195,
+      "mean_indicators_improved_observed": 18.727272727272727,
+      "mean_indicators_deteriorated_observed": 11.545454545454545,
+      "mean_endpoint_missing_cells": 1.5454545454545454
+    },
+    {
+      "Region": "S",
+      "countries": 11,
+      "mean_sdi_change": 0.07637685108160429,
+      "mean_economic_change": 0.029943648347860233,
+      "mean_social_change": 0.22426405457494755,
+      "mean_resource_change": 0.012264720476597797,
+      "mean_ecological_change": 0.039034980927011534,
+      "mean_indicators_improved_observed": 21.0,
+      "mean_indicators_deteriorated_observed": 11.545454545454545,
+      "mean_endpoint_missing_cells": 0.18181818181818182
+    },
+    {
+      "Region": "W",
+      "countries": 15,
+      "mean_sdi_change": 0.06399038052857503,
+      "mean_economic_change": 0.020772070941755632,
+      "mean_social_change": 0.1923878607243725,
+      "mean_resource_change": -0.0022587383667462602,
+      "mean_ecological_change": 0.045060328814918275,
+      "mean_indicators_improved_observed": 21.8,
+      "mean_indicators_deteriorated_observed": 10.4,
+      "mean_endpoint_missing_cells": 0.0
+    }
+  ]
+}

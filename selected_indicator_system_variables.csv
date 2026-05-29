@@ -1,0 +1,36 @@
+﻿一级指标,二级指标,三级指标,Variables,类型,来源
+经济,发展质量,人均GDP增长率,GDP per capita growth (annual %)_x,正向,世界银行WDI数据库
+经济,发展质量,商品出口占GDP比重,Merchandise exports (% of GDP),正向,世界银行WDI数据库
+经济,发展质量,固定资产形成占GDP百分比,Gross fixed capital formation (% of GDP),正向,世界银行WDI数据库
+经济,发展质量,通货膨胀率,"Inflation, GDP deflator (annual %)",负向,世界银行WDI数据库
+经济,产业发展,每工人农业增加值,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)_x",正向,世界银行WDI数据库
+经济,产业发展,每工人工业增加值,"Industry (including construction), value added per worker (constant 2015 US$)_x",正向,世界银行WDI数据库
+经济,产业发展,每工人服务业增加值,"Services, value added per worker (constant 2015 US$)_x",正向,世界银行WDI数据库
+经济,外部经济联系,经常账户余额占GDP百分比,"Current account balance, percent of GDP (Percent of GDP)(IMF)",正向,世界银行WDI数据库
+社会,社会公平,性别平等,Proportion of seats held by women in national parliaments (%)_x,正向,世界银行WDI数据库
+社会,社会公平,营养不良发生率,Prevalence of undernourishment (percent) (3-year average),负向,联合国粮食及农业组织FAO数据库
+社会,人口状况,出生时预期寿命,"Life expectancy at birth, total (years)_pct_change",正向,世界银行WDI数据库
+社会,人口状况,人口增长率,Population growth (annual %),负向,世界银行WDI数据库
+社会,教科医卫,发表科技论文数量（每百万人）,Scientific and technical journal articles per million people,正向,世界银行WDI数据库
+社会,教科医卫,艾滋病病毒感染率,"Prevalence of HIV, total (% of population ages 15-49)_x",负向,世界银行WDI数据库
+社会,教科医卫,国内政府卫生支出（占GDP百分比）,Domestic general government health expenditure (% of GDP),正向,世界银行WDI数据库
+社会,基础设施,使用互联网的人口比例,Individuals using the Internet (% of population)_x,正向,世界银行WDI数据库
+社会,基础设施,移动手机使用数,Mobile cellular subscriptions (per 100 people),正向,世界银行WDI数据库
+社会,基础设施,通电率,Access to electricity (% of population)_x,正向,世界银行WDI数据库
+资源,自然资源,矿石资源损耗占GNI比,Adjusted savings: mineral depletion (% of GNI),负向,世界银行WDI数据库
+资源,自然资源,森林资源损耗占GNI比,Adjusted savings: net forest depletion (% of GNI),负向,世界银行WDI数据库
+资源,自然资源,人均可再生内陆淡水资源,Renewable internal freshwater resources per capita (cubic meters)_x,正向,世界银行WDI数据库
+资源,资源利用效率,一次能源的能源强度,Energy intensity level of primary energy (MJ/$2017 PPP GDP)_x,负向,世界银行WDI数据库
+资源,资源利用效率,水资源生产效率,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)_x",正向,世界银行WDI数据库
+资源,能源生产和消费,能源损耗占GNI比,Adjusted savings: energy depletion (% of GNI),负向,世界银行WDI数据库
+资源,能源生产和消费,人均能源消耗,Energy consumption per capita (million Btu per person),负向,美国能源信息署
+资源,能源生产和消费,人均太阳能、潮汐、波浪、燃料电池发电装机容量,"Solar, tide, wave, fuel cell electricity installed capacity (million kilowatts)_per_capita",正向,美国能源信息署
+资源,能源生产和消费,人均生物质和废弃物发电净发电量,Biomass and waste electricity net generation (million metric tons of oil equivalent)_per_capita,正向,美国能源信息署
+生态,生态环境,森林面积占比,Forest area (% of land area)_x,正向,世界银行WDI数据库
+生态,生态环境,湿地面积占比,Wetland area(% of land area),正向,联合国粮食及农业组织FAOSTAT土地覆盖数据库（经IMF-CID整理）
+生态,生态环境,草原面积占比,Grassland area(% of land area),正向,耶鲁大学EPI数据库
+生态,生态环境,陆地贫瘠土地面积占比,"Terrestrial barren land|1000 HA|ECCCT|Terrestrial Barren Land|Environment, Climate Change, Climate Indicators, Land Cover Accounts, Terrestrial Barren Land|Climate neutral(% of land area)",负向,世界货币基金组织气候变化数据库
+生态,环境污染,人均二氧化碳排放,CO2 emissions (metric tons per capita)_x,负向,世界银行WDI数据库
+生态,环境污染,PM2.5暴露量,PM2.5 exposure/Ambient particulate matter pollution,负向,耶鲁大学EPI数据库
+生态,生态保护,陆地生物群落保护,Terrestrial biome protection (global weights),正向,耶鲁大学EPI数据库
+生态,生态保护,物种保护指数,Species Protection Index,正向,耶鲁大学EPI数据库

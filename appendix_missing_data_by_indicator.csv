@@ -1,0 +1,35 @@
+﻿First-level dimension,Indicator,Raw missing observations,Raw missing rate (%),Imputed observations,Interpolation share of total observations (%),Final missing observations after imputation,Final missing rate after imputation (%)
+Economic,GDP per capita growth,23,2.43,10,1.06,13,1.38
+Economic,Merchandise exports (% of GDP),10,1.06,10,1.06,0,0.0
+Economic,"Inflation, GDP deflator (annual %)",23,2.43,10,1.06,13,1.38
+Economic,"Agriculture, forestry, and fishing value added per worker",91,9.63,37,3.92,54,5.71
+Economic,Industry value added per worker,94,9.95,40,4.23,54,5.71
+Economic,Services value added per worker,96,10.16,42,4.44,54,5.71
+Economic,Current account balance (% of GDP),135,14.29,51,5.4,84,8.89
+Social,Women in national parliament (% of seats),39,4.13,39,4.13,0,0.0
+Social,Prevalence of undernourishment,90,9.52,6,0.63,84,8.89
+Social,Life expectancy at birth,0,0.0,0,0.0,0,0.0
+Social,Population growth (annual %),0,0.0,0,0.0,0,0.0
+Social,Scientific and technical journal articles per million people,0,0.0,0,0.0,0,0.0
+Social,HIV prevalence (% of population ages 15-49),84,8.89,0,0.0,84,8.89
+Social,Domestic general government health expenditure (% of GDP),9,0.95,9,0.95,0,0.0
+Social,Individuals using the Internet (% of population),20,2.12,20,2.12,0,0.0
+Social,Mobile cellular subscriptions (per 100 people),8,0.85,8,0.85,0,0.0
+Social,Access to electricity (% of population),7,0.74,7,0.74,0,0.0
+Resource,Mineral depletion (% of GNI),10,1.06,10,1.06,0,0.0
+Resource,Net forest depletion (% of GNI),10,1.06,10,1.06,0,0.0
+Resource,Renewable internal freshwater resources per capita,21,2.22,0,0.0,21,2.22
+Resource,Energy intensity of primary energy,0,0.0,0,0.0,0,0.0
+Resource,Water productivity,23,2.43,11,1.16,12,1.27
+Resource,Energy depletion (% of GNI),14,1.48,14,1.48,0,0.0
+Resource,Energy consumption per capita,0,0.0,0,0.0,0,0.0
+Resource,"Solar, tidal, wave, and fuel-cell electricity capacity per capita",0,0.0,0,0.0,0,0.0
+Resource,Biomass and waste electricity net generation per capita,0,0.0,0,0.0,0,0.0
+Ecological,Forest area (% of land area),0,0.0,0,0.0,0,0.0
+Ecological,Wetland area (% of land area),0,0.0,0,0.0,0,0.0
+Ecological,Grassland area (% of land area),0,0.0,0,0.0,0,0.0
+Ecological,Terrestrial barren land (% of land area),0,0.0,0,0.0,0,0.0
+Ecological,CO2 emissions per capita,0,0.0,0,0.0,0,0.0
+Ecological,PM2.5 exposure,0,0.0,0,0.0,0,0.0
+Ecological,Terrestrial biome protection,0,0.0,0,0.0,0,0.0
+Ecological,Species Protection Index,0,0.0,0,0.0,0,0.0

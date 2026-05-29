@@ -1,0 +1,6 @@
+﻿method,score_column,pearson_all_country_years,spearman_all_country_years,pearson_2021,spearman_2021,mean_abs_rank_diff,median_abs_rank_diff,max_abs_rank_diff,top10_overlap_2021,bottom10_overlap_2021,mean_2001,mean_2021,growth_percent_2001_2021,top5_2021,bottom5_2021
+"Equal weight, four dimensions",SDI_Equal,0.991815,0.992061,0.990475,0.988538,1.462434,1.0,10.0,9,9,41.41187,47.032908,13.573496,"SYC, NAM, GAB, BWA, MUS","COD, BDI, TCD, LBR, CAF"
+"Equal weight, 34 indicators",SDI_Average,0.987215,0.988372,0.984759,0.979447,1.832804,1.0,14.0,9,9,41.166877,47.442973,15.2455,"SYC, NAM, GAB, BWA, MUS","COD, BDI, LBR, ERI, TCD"
+"Entropy weight, four dimensions",SDI_Entropy_TwoStage,0.87495,0.878998,0.868869,0.873781,5.608466,4.0,22.0,6,8,12.863397,19.798422,53.91286,"SYC, ZAF, MUS, NAM, BWA","BDI, CAF, ERI, TCD, LBR"
+"Entropy weight, 34 indicators",SDI_Entropy_Global,0.78602,0.851865,0.799605,0.874572,6.099471,4.0,26.0,6,9,9.709093,15.13695,55.904875,"SYC, MUS, ZAF, NAM, GAB","BDI, TCD, NER, ERI, CAF"
+Global CRITIC,SDI,0.959075,0.95487,0.951421,0.940448,3.231746,2.0,26.0,9,9,40.643014,48.741723,19.92645,"SYC, NAM, GAB, BWA, SEN","ERI, BDI, COD, LBR, TCD"

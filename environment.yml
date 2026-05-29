@@ -1,0 +1,27 @@
+name: africa
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - python-docx
+  - jupyter
+  - ipykernel
+  - geopandas
+  - cartopy
+  - shapely
+  - mapclassify
+  - pillow
+  - requests-cache
+  - pip
+  - pip:
+      - adjustText
+      - wbgapi

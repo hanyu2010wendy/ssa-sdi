@@ -1,0 +1,244 @@
+### TABLE 1
+Dimension	Sub-dimension	Code	Indicator	Description	Direction
+Economic	Development quality	C1	GDP per capita growth (annual %)	Annual growth rate of GDP per capita; measures economic expansion and improvement in average living standards.	+
+Economic	Development quality	C2	Merchandise exports (% of GDP)	Share of merchandise exports in GDP; reflects export diversification and external economic integration.	+
+Economic	Development quality	C3	Final consumption expenditure (% of GDP)	Domestic household and government consumption as a share of GDP; indicates the scale of domestic demand.	+
+Economic	Development quality	C4	Inflation, GDP deflator (annual %)	Economy-wide price change rate; persistent inflation erodes purchasing power and macroeconomic stability.	−
+Economic	Industrial development	C5	Agriculture, forestry, and fishing value added per worker	Labour productivity in the primary sector; captures structural transformation in agricultural economies.	+
+Economic	Industrial development	C6	Industry value added per worker	Labour productivity in industry; reflects progress in manufacturing and industrial structural transformation.	+
+Economic	Industrial development	C7	Services value added per worker	Labour productivity in the services sector; indicates the quality and efficiency of service activities.	+
+Economic	External economic linkages	C8	Current account balance (% of GDP)	Net trade and financial flows relative to GDP; persistent deficits signal external financing dependence.	+
+Social	Social equity	C9	Women in national parliament (% of seats)	Female share of parliamentary seats; proxies for gender equality in political representation and decision-making.	+
+Social	Social equity	C10	Prevalence of undernourishment (% of population)	Share of population with insufficient dietary energy; a direct measure of food insecurity and poverty.	−
+Social	Population conditions	C11	Life expectancy at birth (years)	Average years a newborn is expected to live; summarises overall population health outcomes.	+
+Social	Population conditions	C12	Population growth (annual %)	Annual rate of population increase; rapid growth in SSA places pressure on resources, infrastructure, and services.	−
+Social	Health, science, and education	C13	Scientific and technical journal articles per million people	Per capita publication output; proxies for scientific capacity and the quality of higher education and research.	+
+Social	Health, science, and education	C14	HIV prevalence (% of population ages 15-49)	Share of working-age adults living with HIV; reflects the epidemic burden on human capital and productivity.	−
+Social	Health, science, and education	C15	Domestic general government health expenditure (% of GDP)	Public health spending relative to GDP; measures state commitment to accessible and equitable health services.	+
+Social	Infrastructure	C16	Individuals using the Internet (% of population)	Share of the population with Internet access; a key enabler of economic participation, education, and information.	+
+Social	Infrastructure	C17	Mobile cellular subscriptions (per 100 people)	Mobile phone subscriptions per capita; captures communication infrastructure penetration across SSA.	+
+Social	Infrastructure	C18	Access to electricity (% of population)	Share of population with access to electricity; essential for economic activity and quality of life.	+
+Resource	Natural resources	C19	Agricultural land (% of land area)	Share of land designated as agricultural; reflects the natural resource base available for food production.	+
+Resource	Natural resources	C20	Arable land (% of land area)	Share of land suitable for crop cultivation; indicates the availability of quality agricultural land.	+
+Resource	Natural resources	C21	Mineral depletion (% of GNI)	Value of subsoil mineral depletion as a proportion of GNI; captures the rate of non-renewable resource drawdown.	−
+Resource	Natural resources	C22	Net forest depletion (% of GNI)	Economic value of net forest loss relative to GNI; reflects unsustainable extraction of timber resources.	−
+Resource	Natural resources	C23	Renewable internal freshwater resources per capita (m³)	Available freshwater supply per person; a critical natural resource for agriculture and human consumption.	+
+Resource	Resource-use efficiency	C24	Energy intensity of primary energy (MJ per 2017 PPP GDP)	Energy required per unit of economic output; lower values indicate greater energy efficiency.	−
+Resource	Resource-use efficiency	C25	Water productivity (constant 2015 US$ per m³ freshwater)	GDP generated per unit of freshwater withdrawn; measures the efficiency of water use in economic activities.	+
+Resource	Energy production and consumption	C26	Energy depletion (% of GNI)	Fossil fuel resource depletion relative to GNI; indicates the rate of non-renewable energy asset consumption.	−
+Resource	Energy production and consumption	C27	Energy consumption per capita (kg of oil equivalent)	Per capita total energy use; captures both energy access levels and the scale of resource consumption.	−
+Resource	Energy production and consumption	C28	Solar, tidal, wave, and fuel-cell electricity capacity per capita (kW)	Per capita installed capacity for non-biomass renewable electricity; reflects progress in clean energy transition.	+
+Resource	Energy production and consumption	C29	Biomass and waste electricity net generation per capita (kWh)	Per capita electricity generation from biomass and waste; measures utilisation of organic renewable energy.	+
+Ecological	Ecological conditions	C30	Forest area (% of land area)	Forest cover as a share of total land; reflects carbon storage, biodiversity habitat, and ecosystem health.	+
+Ecological	Ecological conditions	C31	Wetland area (% of land area)	Extent of wetland ecosystems; wetlands provide water purification, flood regulation, and biodiversity habitat.	+
+Ecological	Ecological conditions	C32	Grassland area (% of land area)	Share of land classified as grassland; supports biodiversity, carbon sequestration, and pastoral livelihoods.	+
+Ecological	Ecological conditions	C33	Terrestrial barren land (% of land area)	Share of land classified as barren; higher values indicate land degradation and desertification pressure.	−
+Ecological	Environmental pollution	C34	CO₂ emissions per capita (metric tons)	Per capita carbon dioxide emissions; captures contribution to greenhouse gas accumulation and climate change.	−
+Ecological	Environmental pollution	C35	PM2.5 air pollution, mean annual exposure (µg/m³)	Population-weighted mean exposure to fine particulate matter; a major environmental health risk.	−
+Ecological	Ecological protection	C36	Terrestrial biome protection (biome-weight)	Coverage of terrestrial biomes by protected areas; measures conservation effort across ecosystem types.	+
+Ecological	Ecological protection	C37	Species Protection Index	Proportion of native species effectively protected within national protected areas; reflects biodiversity conservation.	+
+
+### TABLE 2
+Rank	Country	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020	2021
+1	Namibia	45.7	46.3	47.4	47.9	48	49.1	49.1	49.2	49.8	50.1	50.5	50.6	51.9	52.6	53.3	53.9	53.9	54.9	54.7	55.5	55.8
+2	Botswana	44.1	44.4	44.6	44.2	44.5	45.7	45.9	46.2	45.3	46.6	47.8	48.3	50.2	51.1	49.9	50.6	50.9	50.8	51.3	51.7	53.5
+3	South Africa	42.9	43.2	43.2	43.6	44.1	44.5	44.7	44.8	45.8	46.4	47.5	47.8	48.2	49	49.1	49.8	50.3	50.9	51.4	52.5	53.3
+4	Senegal	46.3	46.3	46.7	46.8	47.2	47.4	47.4	48.3	48.8	49	48.9	50	50.3	50.7	51.2	51.4	51.5	51.9	52.4	53	53.2
+5	Gabon	45.9	49	49.3	49	49.5	49.2	50.3	49.9	50.3	51.3	51.9	52.6	52.8	53.3	53.1	53.5	52.5	52.9	53.1	53.2	53
+6	Guinea	39.6	43.2	42.7	42.8	43.2	44.8	44.9	44.9	45	45.5	45.5	46.1	47	47.6	48	47.6	49.7	49.7	49.8	51.7	52.4
+7	Comoros	41.9	42.3	42.5	42.9	42.9	43.9	44	44	44.1	48.9	49.3	49.5	49.6	49.7	49.8	49.9	50.2	50.5	50.7	52.1	52.3
+8	Mauritius	45.6	45.6	45.5	45.8	46.4	46.4	46.7	46.8	47.1	47.9	47.8	48.5	48.7	49.3	49.5	49.8	49.8	50.3	51.4	51.1	51.9
+9	Ghana	43.9	44.2	44.6	44.5	44.8	45.3	45.7	45.9	46.7	47.4	47.9	47.8	48.1	48.4	48.4	49	49.7	50.2	50.3	51.4	51.4
+10	Côte d'Ivoire	43.3	43.5	43.6	43.9	44.2	44.7	44.7	45.2	45.8	46.1	45.9	46.4	46.8	47.2	48.1	48.3	49.1	49.2	49.7	49.8	50.5
+11	Gambia, The	42.6	42.6	43.2	43.5	43.6	44.1	44.5	46.5	47.6	48.1	47.2	47.5	48	48.9	49.2	49.2	49.3	49.9	49.7	49.7	49.7
+12	Togo	40.7	40.9	41.4	41.2	41.8	42.6	42.5	45.3	45.9	46.4	46.2	46.8	47.6	48	47.8	48.4	48.9	49.2	49.6	49.8	49.6
+13	Seychelles	40.7	40.7	42.6	41.5	41.6	41.8	42.1	41.6	41.7	43.6	46.2	46.1	46.2	45.7	45.9	45.2	45.7	46.7	47.6	49.1	49.6
+14	Rwanda	40.6	41.2	43	42.2	42.2	42.9	42.2	42.9	43.9	44	44.4	44.9	45.5	46.2	46.5	46.4	47.2	47.5	46.9	47.4	48.8
+15	Guinea-Bissau	42.1	41.7	41.3	42.1	42.5	42.6	43.3	43.5	43.3	43.5	44.2	43.9	44	44.6	45.7	46.5	47	47.3	47.5	48	48.7
+16	Burkina Faso	42	42.3	42.6	42.9	42.8	43.2	43.7	43.8	45.2	45.5	45.8	46	46.3	46.5	46.6	47.3	47.9	48	48.5	48.8	48.6
+17	Benin	43.4	43.4	43.6	43.6	43.8	44	44.3	44.7	45.2	45.6	45.7	46	46.5	46.3	45.8	46.1	46.4	47.3	47.5	47.3	48
+18	Malawi	39.1	39.1	39.8	40	40.3	40.9	40.9	41.3	42.3	42.2	42.6	42.5	42.7	43	43.5	43.7	46.2	46.2	46.8	47.1	47.7
+19	Tanzania	41.4	42	42.1	42.4	43.1	43.6	43.5	43.9	44.1	44.5	44.6	44.9	44.8	45.5	46.1	46.5	46.6	46.7	47.6	47.3	47.4
+20	Djibouti	28	28	29.2	29	29.3	29.4	29.2	29.1	30.1	30.7	30.2	30.2	34.7	40.2	40.8	41.9	44	46.4	47.2	47.3	47.3
+21	Swaziland	40.3	40.6	41.7	41.5	41.1	41.5	41.8	42.1	41.7	41.8	41.3	41.8	44.3	44.4	44.5	44.2	44.9	45	46.1	46.7	47.2
+22	Cape Verde	38	38.2	38.5	38.7	39.2	39.7	40.1	40.6	40.8	41.7	41.9	42.4	43.1	43.4	43.8	44.2	44.3	45	45.4	45.3	47.2
+23	Congo, Rep.	39.1	39.2	40.2	39.9	39.5	39.8	42.3	43.8	44.2	43.6	45	44.8	45.3	45.6	45.1	45.3	46.1	46	45.8	46.5	47
+24	Zambia	40.4	40.6	40.6	41.3	41.4	42.4	42.3	42.8	43.6	43.6	44.1	44.5	44.3	44.7	44.8	45.2	45.9	46	46.4	47.6	46.7
+25	Kenya	39.2	39.6	39.8	40.4	40.8	41	41.1	41.4	41.6	42.1	42.8	43.2	43.8	44.1	44.5	44.8	45	45.7	46.3	46.3	46.7
+26	Sierra Leone	37.4	39.9	40.6	41.3	41.6	42	41.3	41.5	41.9	42.7	42.2	43.9	45.8	45.6	44.8	45.5	45.1	45.5	45.9	45.7	46.5
+27	Angola	37.2	37.5	38.1	38.9	39.6	40.7	41.3	42.5	42.5	42.7	44.7	44.9	45.1	45.4	45	45.1	45	45.2	44.9	45.2	45.6
+28	Zimbabwe	37.8	40.2	39.7	40.6	40.8	41.2	40.6	40.6	42.5	43.2	43.2	44.7	45.3	45.3	45.1	45.7	45.2	45.6	43.4	43.2	45.3
+29	Mozambique	38.3	39.1	39.3	40.5	40.9	41.4	41.8	42	42.6	43.4	43.2	42.6	43.1	43.8	43.2	43.1	43.9	44	44.7	44.8	45.3
+30	Uganda	40	41.1	41.2	41.5	41.6	42.6	42.6	43	43.4	43.7	44.2	44.3	43.9	44.3	44.1	44	44.4	44.8	44.5	44.6	45.3
+31	Nigeria	41.3	41.2	42	42.5	43.1	43.1	43	43.5	43.9	44	44.2	44.4	44.7	44.7	44	44.3	44.3	44.9	44.5	44.5	44.7
+32	Cameroon	36.7	36.8	37.1	37.3	37.8	38.6	39.3	39.5	39.7	40.1	40.4	40.9	42.1	42.5	42.3	42.4	42.5	42.9	43.4	43.8	43.9
+33	Lesotho	39.1	39.8	39.2	39.9	39.5	40	42.2	42	41.2	40.5	41.5	42	42.7	43.2	43.3	44.4	44.9	44.9	44.2	44.3	43.8
+34	Ethiopia	34.5	34.4	34	34.3	35.5	36	36.6	36.6	37.2	38.3	38.6	39.1	39.7	39.8	40.8	41.5	42.4	42.5	42.7	43.1	43.7
+35	São Tomé and Principe	34.2	34.4	35.9	35.3	35.7	37.5	37.4	37.5	38.3	39	38.9	39.1	40.3	40.6	40.6	41.7	42.1	41.7	41.7	43	43.4
+36	Madagascar	41.6	40.5	41.7	41.6	41.2	41.5	41.5	41.3	41.1	42	42.3	42.6	42.5	43.4	43.4	43.4	43.6	43.7	43	42.9	43.4
+37	Mali	36.3	36.1	36.7	38	38.2	38.2	38.3	38.5	38.5	38.9	39.3	39.6	41	41.4	41.3	41.2	41.3	41.9	41.9	43.6	42.8
+38	Niger	35.1	35.1	35.1	36.4	37.3	37.4	37.4	37.6	37.2	37.6	37.7	38.1	38.3	38.4	38.1	38.4	39.9	40.1	42	42.2	42.5
+39	Burundi	36.8	37.4	36.6	37	37.6	38.2	37.3	36.8	37.5	37.6	38.7	39	39.2	40.2	40.9	41	41.4	41.8	41.3	41.6	42.1
+40	Equatorial Guinea	40.9	38.5	38.9	41.4	39.6	39.3	39.7	39.7	40	40.1	41.1	41.4	41	41.7	41	40.5	39.8	40.2	40.8	40.6	40.6
+41	Chad	34.4	35.4	34.6	35.7	35.5	35.7	36	36.2	36.4	36.8	37.1	37.4	37.3	37.5	37.2	37.2	37.2	37.4	37.4	37.4	38.5
+42	Congo, Dem. Rep.	33.5	33.7	33.9	34.2	34.1	34.9	35.2	35.4	35.2	35.2	35.8	35.6	35.3	36.3	36.4	36.4	37.7	38.2	38.2	38.3	37.4
+43	Central African Republic	35.5	35.4	35.1	35.3	35.5	35.9	36	35.8	36.5	37.1	36.2	36.8	35.5	36.5	36.5	36.3	36.5	36.8	37.2	37.3	37.3
+44	Liberia	32	31.9	30.8	32.6	32.5	32.9	33.3	33.5	34.2	33.8	33.4	33.6	34.8	35.5	36.7	36.2	36	36.5	35.8	36.1	36.4
+45	Eritrea	32.9	33.6	32.9	32.6	32.7	32.8	33	32.5	32.8	33.8	32.8	33.2	33.2	33.6	33.5	33.5	33.6	33.8	34.2	34.8	34.9
+
+### TABLE 3
+Dimension	Mean score (2001)	Mean score (2021)	Growth (%)	Countries improved	Countries declined
+Comprehensive	39.38	46.46	17.99	44	1
+Economic	31.90	34.06	6.75	26	19
+Social	31.19	50.08	60.55	45	0
+Resource	46.81	49.02	4.73	31	14
+Ecological	47.62	52.70	10.67	39	6
+
+### TABLE 4
+Robustness item	Two-stage CRITIC (main)	Equal-weight specification
+Mean score in 2001	39.38	40.63
+Mean score in 2021	46.46	46.66
+Growth rate, 2001-2021 (%)	17.99	14.86
+Spearman correlation, all country-years	1.000	0.982
+Spearman correlation, 2021	1.000	0.973
+Top-10 overlap in 2021	10/10	9/10
+Bottom-10 overlap in 2021	10/10	10/10
+Mean absolute rank difference	0.00	2.07
+Median absolute rank difference	0.00	1.00
+
+### TABLE 5
+Dimension	Indicator	Raw missing (%)	Interpolated (%)	Final missing (%)
+Economic	GDP per capita growth	2.43	1.06	1.38
+Economic	Merchandise exports (% of GDP)	1.06	1.06	0.0
+Economic	Final consumption expenditure (% of GDP)	15.77	4.87	10.9
+Economic	Inflation, GDP deflator (annual %)	2.43	1.06	1.38
+Economic	Agriculture, forestry, and fishing value added per worker	9.63	3.92	5.71
+Economic	Industry value added per worker	9.95	4.23	5.71
+Economic	Services value added per worker	10.16	4.44	5.71
+Economic	Current account balance (% of GDP)	14.29	5.4	8.89
+Social	Women in national parliament (% of seats)	4.13	4.13	0.0
+Social	Prevalence of undernourishment	9.52	0.63	8.89
+Social	Life expectancy at birth	0.0	0.0	0.0
+Social	Population growth (annual %)	0.0	0.0	0.0
+Social	Scientific and technical journal articles per million people	0.0	0.0	0.0
+Social	HIV prevalence (% of population ages 15-49)	8.89	0.0	8.89
+Social	Domestic general government health expenditure (% of GDP)	0.95	0.95	0.0
+Social	Individuals using the Internet (% of population)	2.12	2.12	0.0
+Social	Mobile cellular subscriptions (per 100 people)	0.85	0.85	0.0
+Social	Access to electricity (% of population)	0.74	0.74	0.0
+Resource	Agricultural land (% of land area)	0.0	0.0	0.0
+Resource	Arable land (% of land area)	0.0	0.0	0.0
+Resource	Mineral depletion (% of GNI)	1.06	1.06	0.0
+Resource	Net forest depletion (% of GNI)	1.06	1.06	0.0
+Resource	Renewable internal freshwater resources per capita	2.22	0.0	2.22
+Resource	Energy intensity of primary energy	0.0	0.0	0.0
+Resource	Water productivity	2.43	1.16	1.27
+Resource	Energy depletion (% of GNI)	1.48	1.48	0.0
+Resource	Energy consumption per capita	0.0	0.0	0.0
+Resource	Solar, tidal, wave, and fuel-cell electricity capacity per capita	0.0	0.0	0.0
+Resource	Biomass and waste electricity net generation per capita	0.0	0.0	0.0
+Ecological	Forest area (% of land area)	0.0	0.0	0.0
+Ecological	Wetland area (% of land area)	0.0	0.0	0.0
+Ecological	Grassland area (% of land area)	0.0	0.0	0.0
+Ecological	Terrestrial barren land (% of land area)	0.0	0.0	0.0
+Ecological	CO2 emissions per capita	0.0	0.0	0.0
+Ecological	PM2.5 exposure	0.0	0.0	0.0
+Ecological	Terrestrial biome protection	0.0	0.0	0.0
+Ecological	Species Protection Index	0.0	0.0	0.0
+
+### TABLE 6
+Country	Alpha-3 code	Raw missing (%)	Interpolated (%)	Final missing (%)
+Eritrea	ERI	24.71	11.2	13.51
+Seychelles	SYC	14.41	0.9	13.51
+Equatorial Guinea	GNQ	11.33	3.22	8.11
+Djibouti	DJI	11.07	0.0	11.07
+São Tomé and Principe	STP	8.24	2.83	5.41
+
+### TABLE 7
+Rank	Country	Code	Region	SDI 2001	SDI 2021	Change (%)	Economic 2021	Social 2021	Resource 2021	Ecological 2021
+1	Namibia	NAM	Southern	45.71	55.83	+22.1	43.19	64.41	46.90	68.82
+2	Botswana	BWA	Southern	44.06	53.48	+21.4	45.21	61.76	44.60	62.35
+3	South Africa	ZAF	Southern	42.92	53.28	+24.1	47.00	74.86	52.78	38.47
+4	Senegal	SEN	Western	46.32	53.20	+14.9	31.90	64.21	51.44	65.24
+5	Gabon	GAB	Central	45.90	52.96	+15.4	45.67	60.84	40.34	64.98
+6	Guinea	GIN	Western	39.60	52.37	+32.2	42.63	50.49	55.67	60.70
+7	Comoros	COM	Eastern	41.87	52.27	+24.8	33.87	55.47	60.62	59.11
+8	Mauritius	MUS	Southern	45.59	51.88	+13.8	45.24	59.51	63.50	39.25
+9	Ghana	GHA	Western	43.92	51.43	+17.1	33.63	64.44	51.42	56.24
+10	Côte d'Ivoire	CIV	Western	43.29	50.52	+16.7	34.62	57.86	56.41	53.18
+11	Gambia	GMB	Western	42.56	49.72	+16.8	31.02	51.72	61.12	55.03
+12	Seychelles	SYC	Eastern	40.68	49.62	+22.0	32.32	63.31	39.53	63.33
+13	Togo	TGO	Western	40.73	49.59	+21.7	31.87	48.35	61.24	56.89
+14	Rwanda	RWA	Eastern	40.60	48.75	+20.1	32.20	57.16	66.79	38.86
+15	Guinea-Bissau	GNB	Western	42.12	48.66	+15.5	32.52	46.98	43.46	71.67
+16	Burkina Faso	BFA	Western	41.98	48.57	+15.7	33.07	47.21	50.84	63.14
+17	Benin	BEN	Western	43.35	47.97	+10.6	31.92	46.94	53.74	59.26
+18	Malawi	MWI	Southern	39.12	47.73	+22.0	30.05	39.79	60.99	60.08
+19	Tanzania	TZA	Eastern	41.37	47.44	+14.7	28.82	48.35	47.41	65.20
+20	Djibouti	DJI	Eastern	28.03	47.31	+68.8	61.23	53.74	51.84	22.43
+21	Cabo Verde	CPV	Western	38.02	47.20	+24.1	35.77	73.66	44.57	34.79
+22	Eswatini	SWZ	Southern	40.32	47.19	+17.1	43.84	49.42	55.23	40.30
+23	Congo, Rep.	COG	Central	39.08	46.98	+20.2	36.97	47.43	43.29	60.22
+24	Kenya	KEN	Eastern	39.20	46.73	+19.2	33.03	54.06	48.64	51.18
+25	Zambia	ZMB	Southern	40.36	46.71	+15.7	36.95	44.49	36.69	68.72
+26	Sierra Leone	SLE	Western	37.43	46.49	+24.2	32.06	44.24	52.72	56.93
+27	Angola	AGO	Southern	37.19	45.64	+22.7	40.88	48.11	44.14	49.43
+28	Zimbabwe	ZWE	Southern	37.81	45.33	+19.9	30.82	47.01	41.72	61.79
+29	Mozambique	MOZ	Southern	38.30	45.33	+18.3	31.37	42.27	45.30	62.35
+30	Uganda	UGA	Eastern	40.04	45.32	+13.2	29.95	44.55	57.02	49.76
+31	Nigeria	NGA	Western	41.28	44.68	+8.2	25.06	48.06	61.57	44.02
+32	Cameroon	CMR	Central	36.71	43.92	+19.7	31.83	55.73	44.12	44.01
+33	Lesotho	LSO	Southern	39.13	43.78	+11.9	37.37	40.00	49.47	48.28
+34	Ethiopia	ETH	Eastern	34.48	43.73	+26.8	29.40	50.92	44.94	49.68
+35	São Tomé and Príncipe	STP	Central	34.21	43.41	+26.9	26.96	46.15	45.87	54.67
+36	Madagascar	MDG	Eastern	41.60	43.39	+4.3	31.70	39.58	48.70	53.60
+37	Mali	MLI	Western	36.29	42.81	+18.0	32.45	55.30	40.05	43.42
+38	Niger	NER	Western	35.12	42.48	+20.9	28.83	46.68	46.63	47.77
+39	Burundi	BDI	Eastern	36.81	42.09	+14.3	28.24	38.50	62.99	38.63
+40	Equatorial Guinea	GNQ	Central	40.86	40.61	-0.6	38.15	29.07	37.28	57.95
+41	Chad	TCD	Central	34.36	38.50	+12.1	21.62	40.59	43.61	48.19
+42	Congo, Dem. Rep.	COD	Central	33.46	37.35	+11.6	32.13	37.55	30.47	49.25
+43	Central African Republic	CAF	Central	35.48	37.32	+5.2	21.89	35.92	38.77	52.72
+44	Liberia	LBR	Western	31.97	36.41	+13.9	23.89	37.46	35.87	48.42
+45	Eritrea	ERI	Eastern	32.85	34.87	+6.1	23.55	39.25	45.67	31.02
+
+### TABLE 8
+Dimension	Sub-dimension	Code	Indicator	Direction	Within-dim. weight (%)	Global weight (%)	Source
+Economic	Development quality	C1	GDP per capita growth (annual %)	+	8.39	2.10	World Bank WDI
+Economic	Development quality	C2	Merchandise exports (% of GDP)	+	16.02	4.00	World Bank WDI
+Economic	Development quality	C3	Final consumption expenditure (% of GDP)	+	13.41	3.35	World Bank WDI
+Economic	Development quality	C4	Inflation, GDP deflator (annual %)	−	7.27	1.82	World Bank WDI
+Economic	Industrial development	C5	Agriculture, forestry, and fishing value added per worker	+	10.79	2.70	World Bank WDI
+Economic	Industrial development	C6	Industry value added per worker	+	11.58	2.90	World Bank WDI
+Economic	Industrial development	C7	Services value added per worker	+	18.14	4.53	World Bank WDI
+Economic	External economic linkages	C8	Current account balance (% of GDP)	+	14.40	3.60	World Bank WDI
+Social	Social equity	C9	Women in national parliament (% of seats)	+	13.40	3.35	World Bank WDI
+Social	Social equity	C10	Prevalence of undernourishment (% of population)	−	10.56	2.64	FAO
+Social	Population conditions	C11	Life expectancy at birth (years)	+	2.32	0.58	World Bank WDI
+Social	Population conditions	C12	Population growth (annual %)	−	6.72	1.68	World Bank WDI
+Social	Health, science and education	C13	Scientific and technical journal articles per million people	+	6.04	1.51	World Bank WDI
+Social	Health, science and education	C14	HIV prevalence (% of population ages 15-49)	−	15.40	3.85	World Bank WDI
+Social	Health, science and education	C15	Domestic general government health expenditure (% of GDP)	+	10.66	2.66	World Bank WDI
+Social	Infrastructure	C16	Individuals using the Internet (% of population)	+	9.35	2.34	World Bank WDI
+Social	Infrastructure	C17	Mobile cellular subscriptions (per 100 people)	+	13.02	3.26	World Bank WDI
+Social	Infrastructure	C18	Access to electricity (% of population)	+	12.53	3.13	World Bank WDI
+Resource	Natural resources	C19	Agricultural land (% of land area)	+	15.50	3.88	World Bank WDI
+Resource	Natural resources	C20	Arable land (% of land area)	+	15.75	3.94	World Bank WDI
+Resource	Natural resources	C21	Mineral depletion (% of GNI)	−	6.34	1.59	World Bank WDI
+Resource	Natural resources	C22	Net forest depletion (% of GNI)	−	8.15	2.04	World Bank WDI
+Resource	Natural resources	C23	Renewable internal freshwater resources per capita (m³)	+	8.25	2.06	World Bank WDI
+Resource	Resource-use efficiency	C24	Energy intensity of primary energy (MJ per 2017 PPP GDP)	−	9.54	2.38	World Bank WDI
+Resource	Resource-use efficiency	C25	Water productivity (constant 2015 US$ per m³)	+	6.64	1.66	World Bank WDI
+Resource	Energy production and consumption	C26	Energy depletion (% of GNI)	−	6.12	1.53	World Bank WDI
+Resource	Energy production and consumption	C27	Energy consumption per capita (kg of oil equivalent)	−	8.48	2.12	EIA
+Resource	Energy production and consumption	C28	Solar, tidal, wave, and fuel-cell electricity capacity per capita (kW)	+	5.23	1.31	EIA
+Resource	Energy production and consumption	C29	Biomass and waste electricity net generation per capita (kWh)	+	10.00	2.50	EIA
+Ecological	Ecological conditions	C30	Forest area (% of land area)	+	12.79	3.20	World Bank WDI
+Ecological	Ecological conditions	C31	Wetland area (% of land area)	+	10.68	2.67	FAO/IMF-CID
+Ecological	Ecological conditions	C32	Grassland area (% of land area)	+	12.25	3.06	Yale EPI
+Ecological	Ecological conditions	C33	Terrestrial barren land (% of land area)	−	12.01	3.00	IMF Climate Change Dashboard
+Ecological	Environmental pollution	C34	CO₂ emissions per capita (metric tons)	−	8.39	2.10	World Bank WDI
+Ecological	Environmental pollution	C35	PM2.5 air pollution, mean annual exposure (µg/m³)	−	13.25	3.31	Yale EPI
+Ecological	Ecological protection	C36	Terrestrial biome protection (biome-weight)	+	15.78	3.95	Yale EPI
+Ecological	Ecological protection	C37	Species Protection Index	+	14.84	3.71	Yale EPI
+

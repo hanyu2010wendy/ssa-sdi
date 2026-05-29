@@ -1,0 +1,12 @@
+﻿metric,value
+all_merged_countries,57.0
+all_merged_year_min,1750.0
+all_merged_year_max,2050.0
+configured_sample_countries,48.0
+indicator_workflow_countries_2001_2021,45.0
+indicator_workflow_year_min,2001.0
+indicator_workflow_year_max,2021.0
+missing_indicator_count_before_cv_vif,0.0
+final_indicator_count_after_cv_vif,34.0
+minimum_country_year_indicator_coverage_rate_after_imputation,0.8235294117647058
+country_years_below_80pct_indicator_coverage,0.0

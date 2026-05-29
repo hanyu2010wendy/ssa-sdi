@@ -1,0 +1,35 @@
+﻿First-level dimension,Second-level dimension,Third-level indicator,Direction,Weight
+A1 Economic,B1 Development quality,C1 GDP per capita growth,Positive,0.0238
+,,C2 Merchandise exports (% of GDP),Positive,0.0472
+,,"C3 Inflation, GDP deflator (annual %)",Negative,0.0206
+,B2 Industrial development,"C4 Agriculture, forestry, and fishing value added per worker",Positive,0.0297
+,,C5 Industry value added per worker,Positive,0.0347
+,,C6 Services value added per worker,Positive,0.0525
+,B3 External economic linkages,C7 Current account balance (% of GDP),Positive,0.0416
+A2 Social,B4 Social equity,C8 Women in national parliament (% of seats),Positive,0.0335
+,,C9 Prevalence of undernourishment,Negative,0.0264
+,B5 Population conditions,C10 Life expectancy at birth,Positive,0.0058
+,,C11 Population growth (annual %),Negative,0.0168
+,"B6 Health, science and education",C12 Scientific and technical journal articles per million people,Positive,0.0151
+,,C13 HIV prevalence (% of population ages 15-49),Negative,0.0385
+,,C14 Domestic general government health expenditure (% of GDP),Positive,0.0266
+,B7 Infrastructure,C15 Individuals using the Internet (% of population),Positive,0.0234
+,,C16 Mobile cellular subscriptions (per 100 people),Positive,0.0326
+,,C17 Access to electricity (% of population),Positive,0.0313
+A3 Resource,B8 Natural resources,C18 Mineral depletion (% of GNI),Negative,0.0228
+,,C19 Net forest depletion (% of GNI),Negative,0.029
+,,C20 Renewable internal freshwater resources per capita,Positive,0.032
+,B9 Resource-use efficiency,C21 Energy intensity of primary energy,Negative,0.0332
+,,C22 Water productivity,Positive,0.0244
+,B10 Energy production and consumption,C23 Energy depletion (% of GNI),Negative,0.0226
+,,C24 Energy consumption per capita,Negative,0.0308
+,,"C25 Solar, tidal, wave, and fuel-cell electricity capacity per capita",Positive,0.0186
+,,C26 Biomass and waste electricity net generation per capita,Positive,0.0366
+A4 Ecological,B11 Ecological conditions,C27 Forest area (% of land area),Positive,0.032
+,,C28 Wetland area (% of land area),Positive,0.0267
+,,C29 Grassland area (% of land area),Positive,0.0306
+,,C30 Terrestrial barren land (% of land area),Negative,0.03
+,B12 Environmental pollution,C31 CO2 emissions per capita,Negative,0.021
+,,C32 PM2.5 exposure,Negative,0.0331
+,B13 Ecological protection,C33 Terrestrial biome protection,Positive,0.0395
+,,C34 Species Protection Index,Positive,0.0371

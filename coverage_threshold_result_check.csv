@@ -1,0 +1,8 @@
+﻿metric,value
+country_year_observations,945.0
+final_indicator_count,34.0
+minimum_available_indicators_after_imputation,28.0
+minimum_coverage_rate_after_imputation,0.8235294117647058
+country_years_below_80pct_coverage,0.0
+sdi_twostage_missing_after_coverage_rule,0.0
+sdi_twostage_ranked_country_years_unchanged_by_80pct_rule,945.0
