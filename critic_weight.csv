@@ -26,7 +26,7 @@
 0.024470809233266992,资源,自然资源,森林资源损耗占GNI比,Adjusted savings: net forest depletion (% of GNI),负向
 0.02426309003371453,生态,环境污染,人均二氧化碳排放,CO2 emissions (metric tons per capita)_x,负向
 0.02355080491073855,资源,能源生产和消费,人均能源消耗,Energy consumption per capita (million Btu per person),负向
-0.02869038558579303,资源,资源利用效率,一次能源的能源强度,Energy intensity level of primary energy (MJ/$2017 PPP GDP)_x,负向
+0.02869038558579303,资源,资源利用效率,一次能源的能源强度,Energy intensity level of primary energy (MJ/$2021 PPP GDP),负向
 0.010122825571159852,经济,发展质量,通货膨胀率,"Inflation, GDP deflator (annual %)",负向
 0.04424805821541667,生态,环境污染,PM2.5暴露量,PM2.5 exposure/Ambient particulate matter pollution,负向
 0.019529810883445117,社会,人口状况,人口增长率,Population growth (annual %),负向

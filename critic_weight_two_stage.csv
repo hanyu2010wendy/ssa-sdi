@@ -19,7 +19,7 @@
 资源,自然资源,矿石资源损耗占GNI比,Adjusted savings: mineral depletion (% of GNI),负向,世界银行WDI数据库,0.09136415479612069,0.02284103869903017,0.0197732776210613,0.003067761077968873
 资源,自然资源,森林资源损耗占GNI比,Adjusted savings: net forest depletion (% of GNI),负向,世界银行WDI数据库,0.11585083578952796,0.02896270894738199,0.0244708092332669,0.0044918997141150906
 资源,自然资源,人均可再生内陆淡水资源,Renewable internal freshwater resources per capita (cubic meters)_x,正向,世界银行WDI数据库,0.12782087365397832,0.03195521841349458,0.0272274711084623,0.004727747305032278
-资源,资源利用效率,一次能源的能源强度,Energy intensity level of primary energy (MJ/$2017 PPP GDP)_x,负向,世界银行WDI数据库,0.13285765619767556,0.03321441404941889,0.028690385585793,0.0045240284636258905
+资源,资源利用效率,一次能源的能源强度,Energy intensity level of primary energy (MJ/$2021 PPP GDP),负向,世界银行WDI数据库,0.13285765619767556,0.03321441404941889,0.028690385585793,0.0045240284636258905
 资源,资源利用效率,水资源生产效率,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)_x",正向,世界银行WDI数据库,0.09766695352967107,0.024416738382417768,0.0217762960102131,0.0026404423722046697
 资源,能源生产和消费,能源损耗占GNI比,Adjusted savings: energy depletion (% of GNI),负向,世界银行WDI数据库,0.09051049633746149,0.02262762408436537,0.0197910882228083,0.00283653586155707
 资源,能源生产和消费,人均能源消耗,Energy consumption per capita (million Btu per person),负向,美国能源信息署,0.12310585850258106,0.030776464625645265,0.0235508049107385,0.007225659714906765

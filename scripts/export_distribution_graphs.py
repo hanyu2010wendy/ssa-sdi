@@ -44,7 +44,7 @@ ENGLISH_INDICATOR_LABELS = {
     "Adjusted savings: mineral depletion (% of GNI)": "Mineral depletion",
     "Adjusted savings: net forest depletion (% of GNI)": "Net forest depletion",
     "Renewable internal freshwater resources per capita (cubic meters)_x": "Renewable freshwater per capita",
-    "Energy intensity level of primary energy (MJ/$2017 PPP GDP)_x": "Energy intensity",
+    "Energy intensity level of primary energy (MJ/$2021 PPP GDP)": "Energy intensity",
     "Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)_x": "Water productivity",
     "Adjusted savings: energy depletion (% of GNI)": "Energy depletion",
     "Energy consumption per capita (million Btu per person)": "Energy consumption per capita",
@@ -55,7 +55,7 @@ ENGLISH_INDICATOR_LABELS = {
     "Grassland area(% of land area)": "Grassland area share",
     "Terrestrial barren land|1000 HA|ECCCT|Terrestrial Barren Land|Environment, Climate Change, Climate Indicators, Land Cover Accounts, Terrestrial Barren Land|Climate neutral(% of land area)": "Barren land share",
     "CO2 emissions (metric tons per capita)_x": "CO2 emissions per capita",
-    "PM2.5 exposure/Ambient particulate matter pollution": "PM2.5 exposure",
+    "PM2.5 exposure/Ambient particulate matter pollution": "Anthropogenic PM2.5",
     "Terrestrial biome protection (global weights)": "Terrestrial biome protection",
     "Species Protection Index": "Species Protection Index",
 }
@@ -212,7 +212,7 @@ def export_subsystem_mean_scores() -> None:
         "Ecological": {"color": "#4D8D3F", "marker": "X", "linestyle": (0, (5, 2, 1, 2)), "linewidth": 2.0},
     }
 
-    fig, ax = plt.subplots(figsize=(9.5, 5.2))
+    fig, ax = plt.subplots(figsize=(10, 7.5))
     for column, style in styles.items():
         ax.plot(
             mean_scores.index,
@@ -229,7 +229,10 @@ def export_subsystem_mean_scores() -> None:
     ax.set_ylabel("Mean score (0-100)", fontsize=10)
     ax.set_xticks([2001, 2005, 2010, 2015, 2021])
     ax.grid(True, axis="y", linestyle="--", linewidth=0.6, alpha=0.35)
-    ax.spines[["top", "right"]].set_visible(False)
+    for spine in ax.spines.values():
+        spine.set_visible(True)
+        spine.set_color("black")
+        spine.set_linewidth(0.9)
     ax.legend(ncol=5, loc="upper center", bbox_to_anchor=(0.5, -0.14), frameon=False, fontsize=9)
     fig.tight_layout(rect=[0, 0.05, 1, 1])
     fig.savefig(OUTPUT_DIR / "subsystem_mean_scores_2001_2021.png", dpi=600, bbox_inches="tight")

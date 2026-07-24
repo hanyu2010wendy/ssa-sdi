@@ -47,7 +47,10 @@ DESCRIPTIONS = {
     "Grassland area (% of land area)": "Share of land classified as grassland; supports biodiversity, carbon sequestration, and pastoral livelihoods.",
     "Terrestrial barren land (% of land area)": "Share of land classified as barren; higher values indicate land degradation and desertification pressure.",
     "CO2 emissions per capita": "Per capita carbon dioxide emissions; captures contribution to greenhouse gas accumulation and climate change.",
-    "PM2.5 exposure": "Population-weighted mean exposure to fine particulate matter; a major environmental health risk.",
+    "Anthropogenic PM2.5 exposure": (
+        "Population-weighted mean exposure to anthropogenic fine particulate matter, "
+        "excluding windblown dust; captures human-related air-pollution exposure."
+    ),
     "Terrestrial biome protection": "Coverage of terrestrial biomes by protected areas; measures conservation effort across ecosystem types.",
     "Species Protection Index": "Proportion of native species effectively protected within national protected areas; reflects biodiversity conservation.",
 }

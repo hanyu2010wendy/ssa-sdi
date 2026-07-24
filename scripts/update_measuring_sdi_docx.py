@@ -377,7 +377,7 @@ def main() -> None:
             "improved in every country with available data, indicating that the institutional "
             "framework for ecological protection has been widely strengthened. However, the "
             "share of forest area declined in 38 out of 45 countries, and per capita carbon "
-            "dioxide emissions rose in 34 out of 45 countries. PM2.5 exposure eased slightly, "
+            "dioxide emissions rose in 34 out of 45 countries. Anthropogenic PM2.5 exposure eased slightly, "
             "but the improvement is concentrated in a few countries rather than across the "
             "region. The gap between formal protection and actual ecological outcomes echoes "
             "a long-standing concern in the literature: institutional improvements do not "

@@ -94,7 +94,7 @@ INDICATOR_EN = {
     "草原面积占比": "Grassland area (% of land area)",
     "陆地贫瘠土地面积占比": "Terrestrial barren land (% of land area)",
     "人均二氧化碳排放": "CO2 emissions per capita",
-    "PM2.5暴露量": "PM2.5 exposure",
+    "PM2.5暴露量": "Anthropogenic PM2.5 exposure",
     "铅暴露量": "Lead exposure",
     "陆地生物群落保护": "Terrestrial biome protection",
     "物种保护指数": "Species Protection Index",

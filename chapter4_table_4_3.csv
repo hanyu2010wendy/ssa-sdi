@@ -30,6 +30,6 @@ A4 Ecological,B11 Ecological conditions,C27 Forest area (% of land area),Positiv
 ,,C29 Grassland area (% of land area),Positive,0.0306
 ,,C30 Terrestrial barren land (% of land area),Negative,0.03
 ,B12 Environmental pollution,C31 CO2 emissions per capita,Negative,0.021
-,,C32 PM2.5 exposure,Negative,0.0331
+,,C32 Anthropogenic PM2.5 exposure,Negative,0.0331
 ,B13 Ecological protection,C33 Terrestrial biome protection,Positive,0.0395
 ,,C34 Species Protection Index,Positive,0.0371
