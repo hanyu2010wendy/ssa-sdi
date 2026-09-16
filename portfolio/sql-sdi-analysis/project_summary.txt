@@ -1,0 +1,7 @@
+latest_year: 2021
+rows: 945
+columns: 55
+countries_latest_year: 45
+top_country_code: SYC
+top_country_sdi: 0.6623019087709361
+regional_count: 4

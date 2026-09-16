@@ -19,6 +19,15 @@ support, monitoring and evaluation, and higher-education planning/reporting.
 - Composite index construction and robustness checks
 - Python-based reproducible analysis and data visualization
 
+## Portfolio Project
+
+For a concise, job-facing example of SQL querying and policy-facing data
+communication, see:
+
+- [`portfolio/sql-sdi-analysis/`](portfolio/sql-sdi-analysis/): a small portfolio project using the final
+  country-year SDI dataset to produce latest-year rankings, regional
+  comparisons, and a country trend example.
+
 This repository contains the processed data, indicator metadata, and replication
 code for the manuscript:
 
