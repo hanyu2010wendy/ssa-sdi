@@ -1,5 +1,24 @@
 # Sustainable Development Index for Sub-Saharan Africa
 
+## Portfolio Summary
+
+This project demonstrates my experience in international development data
+analysis, including multi-source indicator compilation, country-year panel data
+preparation, missing-data diagnostics, composite index construction, robustness
+checks, and policy-oriented visualization for Sub-Saharan Africa.
+
+It is relevant to roles in development data analysis, SDG monitoring, research
+support, monitoring and evaluation, and higher-education planning/reporting.
+
+## Skills Demonstrated
+
+- International development indicators and SDG-related data
+- Country-year panel data cleaning and harmonisation
+- Indicator metadata and source documentation
+- Missing-data diagnostics and transparency tables
+- Composite index construction and robustness checks
+- Python-based reproducible analysis and data visualization
+
 This repository contains the processed data, indicator metadata, and replication
 code for the manuscript:
 
